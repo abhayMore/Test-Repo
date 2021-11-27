@@ -7,5 +7,6 @@ int main()
 	std::cout << "signed commit" << std::endl;
 
 	std::cout << "signed another commit" << std::endl;
+	std::cout << "auto signed another commit" << std::endl;
 
 }
