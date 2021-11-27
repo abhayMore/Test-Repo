@@ -10,5 +10,6 @@ int main()
 	std::cout << "auto signed another commit" << std::endl;
 	std::cout << "auto signs tags/commits using Visual Studio " << std::endl;
 	std::cout << "auto signs commits using Visual Studio " << std::endl;
+	std::cout << "auto signs commits using Visual Studio " << std::endl;
 
 }
